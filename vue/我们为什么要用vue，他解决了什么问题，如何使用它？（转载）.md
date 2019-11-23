@@ -236,8 +236,8 @@ Vue.js的组件文件本质上还是普通的代码文件，所以各种编辑�
 ---
 github文章资源地址：[我们为什么要用vue，他解决了什么问题，如何使用它？](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8vue%EF%BC%8C%E4%BB%96%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%AE%83%EF%BC%9F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89.md)
 
-我的个人博客：[http://xiaolongwu.cn](http://xiaolongwu.cn)
+我的个人博客：[https://blog.52lhd.com](https://blog.52lhd.com)
 
 如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
 
-邮箱：wuxiaolong802@163.com
+邮箱：im.lihaodong@gmail.com
